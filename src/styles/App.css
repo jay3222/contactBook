@@ -1,0 +1,14 @@
+.action{
+    opacity:0;
+}
+
+tr:hover .action {
+    opacity:1;
+}
+
+tbody td a{
+    color: black;
+}
+tbody td a:hover{
+    color: black;
+}
